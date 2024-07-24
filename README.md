@@ -1,5 +1,7 @@
 # param-etab
 
+> ⚠️ migration du projet vers https://github.com/GIP-RECIA/recia-webcomponents/tree/main/packages/ressources-diffusables
+
 - [param-etab](#param-etab)
   - [Installation](#installation)
   - [Paramètres](#paramètres)
